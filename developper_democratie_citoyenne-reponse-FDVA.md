@@ -284,21 +284,52 @@ Formateur aux outils et usages coopératifs, spécialiste des modèles coopérat
 http://www.lilianricaud.com/travail-en-reseau/etude-de-cas-sur-le-travail-cooperatif-en-ligne/
 
 
-VI.
-VI.1
-Diffusion de l’étude
-Présentation / diffusion en live !
-Il pourra être proposé une présentation publique sur chaque territoire d’expérimentation.
-Cette présentation sera filmée pour être mise à disposition sur le portail Internet.
-Dans la mesure où le lieu le permet, cette présentation pourra être diffusée en streaming
-vidéo en direct.
-Il pourra être proposé une intervention pour restitution auprès des réseaux de
-développement territorial, en particulier les membres du comité de pilotage.
-Dans une optique de travail de recherche en réseau ouvert, les monographies, synthèse,
-analyses, contenus de formation seront pré-publiés au fur et a mesure sur le site avant la
-remise du rapport final. Dans un souci de transparence les comptes rendus des réunions de
-travail seront eux aussi accessible publiquement sur le site.
-Cette initiative s’inscrit dans une démarche de création et de biens communs et tous les
-contenus produits et publiés lors de l’étude seront mis à disposition sous une licence libre
-permettant la réutilisation y compris commerciale (CC-BY-SA) par les institutions et les
-associations.
+## VI.Diffusion de l’étude
+
+### VI.1 Présentation / diffusion en live !
+
+Il pourra être proposé une présentation publique sur chaque territoire d’expérimentation. Cette présentation sera filmée pour être mise à disposition sur le portail Internet. Dans la mesure où le lieu le permet, cette présentation pourra être diffusée en streaming vidéo en direct.
+
+Il pourra être proposé une intervention pour restitution auprès des réseaux de développement territorial, en particulier les membres du comité de pilotage.
+
+Dans une optique de travail de recherche en réseau ouvert, les monographies, synthèse, analyses, contenus de formation seront pré-publiés au fur et a mesure sur le site avant la remise du rapport final. Dans un souci de transparence les comptes rendus des réunions de travail seront eux aussi accessible publiquement sur le site.
+
+Cette initiative s’inscrit dans une démarche de création et de biens communs et tous les contenus produits et publiés lors de l’étude seront mis à disposition sous une licence libre permettant la réutilisation y compris commerciale (CC-BY-SA) par les institutions et les associations.
+
+## VI.2 Retrouvez tous les contenus en ligne !
+**Journal et Compte rendu de l’étude mis en ligne sur un espace Web coopératif de type Wiki.** 
+Cet espace pourra accueillir des contenus multimédia issus des terrains d’expérimentation, et tous les contenus présentés dans l’étude (guide méthodologique, bibliographie, modèles, figures ...)
+
+**E-Book téléchargeable et imprimable:**
+Le rapport sera mis a disposition sous forme de livre blanc numérique librement redistribuable. En plus du rapport, un outil permettant la création d’e-books personnalisés à partir des fiches mises à disposition sur le site sera proposé.
+
+**Réseaux sociaux:** 
+les principaux réseaux sociaux grand public et professionnels (Twitter, Facebook, Google+, LinkedIn, Viadeo) seront utilisés pour identifier des public cibles, rendre visible et diffuser le rapport de l’étude.
+
+** Réseaux des membres du comité de pilotage: **
+l’étude sera relayée auprès des réseaux et partenaires des membres du comité.
+
+### VII. Quelques informations annexes...
+**Formation Animacoop**
+Un programme de formation, initié par l’association Outils-Reseaux qui d’adresse à des animateurs de réseaux, concrétisé par une dizaine de formation réalisés depuis 2010 auprès d’une centaine de stagiaires.
+
+Une méthode pédagogique innovante qui place l'apprenant au centre et qui favorise son autonomie : l'accent est mis sur l'apprentissage de méthodes et d'outils collaboratifs afin de favoriser les échanges de pratiques, la mutualisation entre les stagiaires et la veille collective. Les apprenants sont formés à la veille sur les outils et usages émergents.
+
+Seule cette démarche permettra d'adapter les compétences individuelles, vu la rapidité à laquelle les techniques et les organisations évoluent.
+
+Le dispositif de formation (formation hybride à distance et en présence) est particulièrement adapté aux contraintes professionnelles des animateurs et porteurs de projets, avec des contenus modulaires facilitant l'approche individualisée.
+
+Les stagiaires sont mis en situation active : à partir de leurs contextes professionnels, ils expérimentent les usages, les méthodes et les outils adaptés à leurs pratiques.
+
+Cette formation est inscrite dans la durée : un lien est proposé aux stagiaires avec d'autres groupes d'apprentissage collaboratif (réseaux de stagiaires et réseaux d'échanges de pratiques collaboratives). La découverte des usages et des outils collaboratifs peut ainsi perdurer par l'échange d'expériences et de savoirs.
+
+Les modules comprennent des cours, des points méthodologiques, des tutoriels et espaces de démonstration pour les outils, des retours d'expériences pratiques (« ils l'ont fait, c'est possible »), des consignes de travail individuel et collectif, des grilles d'auto-évaluation ...
+
+** Cooptic** 
+Coop-Tic est un projet Européen (Leonardo) qui a formé, en 2012-2013, soixante animateurs afin de constituer un véritable pool européen d’animateurs/formateurs de réseaux dans trois pays d’Europe (Belgique, Espagne, France). Co-animé par Outils-Réseaux, l’experience acquise lors de ce projet sera transférable dans le projet de formation de formateur présenté.
+
+** MousTIC**
+Les rencontres mousTIC sont centrées autour des usages sociaux et sociétaux des TIC pour plus de partage dans les territoires.
+Elles s'inscrivent, depuis 2005, dans le paysage des rencontres d'acteurs de l'internet: Autrans en hiver, Brest et Rennes en été, InnovAfrica en automne, et Montpellier au printemps.
+
+Les rencontres sont un lieu de discussion, et de co-apprentissage sur les outils et leurs usages coopératifs, mêlant à la fois théorie, pratique, échanges et expérience vécue. Mais les rencontres sont aussi un lieu de réflexion et d’expérimentation où de nouvelles méthodes et de nouveaux outils sont crées et expérimentés via des formats d’ateliers innovants.
