@@ -140,6 +140,8 @@ La pertinence des outils mis en place viendra de la qualité de la dynamique et 
 
 Nous proposons d'animer des chantiers de réflexion et de prototypage pour aider à impulser de la coopération et à créer une dynamique interne d’abord au sein de ce premier cercle.
 
+![](cercle-pionniers.png)
+
 Les méthodes et outils que nous apportons permettrons de placer les membres pionniers au cœur de la réflexion mais aussi de prendre du recul et de se nourrir d'expériences voisines pour prendre collectivement les décisions d'orientation stratégique.
 
 Ensemble, avec l'aide d'experts ou de partenaires, nous pourrons dresser pour chacune des thématiques un "état de l'art" regroupant les pistes opérationnelles. Ainsi le collectif disposerait d'une boite à outils complète dans laquelle elle pourra piocher les bonnes questions à poser et à se poser ainsi que les réponses et moyens les plus adaptés à sa situation. D'autres part cet "état de l'art" pourra servir à d'autres structures confrontées actuellement aux mêmes problématiques.
@@ -192,6 +194,9 @@ Nous pensons que l’ESS ne doit pas courir derrière une économie dite “clas
 ### Déclinaison de l'offre d'accompagnement
 
 Pratiquement, notre accompagnement se base sur une alternance de formation-action en présence, entrecoupées d’accompagnement à distance. 
+
+![](schema_-_accompagnement(2).jpg)
+
 
 #### Temps de rencontre en présence
 ##### Formation des pionniers
@@ -268,7 +273,7 @@ Il est à noter que notre méthode d’accompagnement s’appuyant sur des modè
 
 ### ANNEXE: Approche pédagogique ouverte 
 
-
+![](pedagogie-ouverte-transparence-participation-cooperation.png)
 
 Nous utilisons une approche ouverte de l’apprentissage dont voici quelque principes: 
 
